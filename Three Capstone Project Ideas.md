@@ -1,6 +1,6 @@
 
 
-**Capstone Project Ideas**
+**Capstone Project Ideas**. 
 **Reza Taeb**
 
 
