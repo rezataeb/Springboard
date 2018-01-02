@@ -1,6 +1,7 @@
 
 
-# Capstone Project Ideas   headerStyle: { backgroundColor: '#fff', elevation:0 }
+# Capstone Project Ideas   
+headerStyle: { shadowColor: 'transparent' }
 #                                                       Reza Taeb
 
 
