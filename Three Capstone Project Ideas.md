@@ -1,6 +1,6 @@
 
 
-**Capstone Project Ideas**     
+### **Capstone Project Ideas**     
 **Reza Taeb**
 
 
@@ -30,7 +30,7 @@ Some of the primary questions and area of research that I am interested in are:
 The output can be beneficial for both NYC visitors and NYC business owners (and future investors) including restaurants, cafes, hotels, hostels, etc . Taxi drivers can also adjust their routes in different hours. 
 
 
-Dataset Source:http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml 
+Dataset Source: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml 
 
 
 #### 3 - Yelp review analysis 
@@ -39,7 +39,7 @@ This idea comes up from the challenge which is introduced by Yelp.com. In the ch
 The data is coming directly from yelp.com and is separated in several main JSON format data sets (business, reviews, user, check in, and tips). You can find all details of the datasets in the link below: 
 
 
-Data Source: https://www.yelp.com/dataset/documentation/json
+Dataset Source: https://www.yelp.com/dataset/documentation/json
 
 
 Some specific questions and area of research that coming to my mind right now are: 
