@@ -1,7 +1,7 @@
 
 
-# Capstone Project Ideas   headerStyle: { shadowColor: 'transparent' }
-#                                                       Reza Taeb
+*Capstone Project Ideas*
+**Reza Taeb**
 
 
 
