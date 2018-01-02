@@ -30,7 +30,7 @@ Some of the primary questions and area of research that I am interested in are:
 The output can be beneficial for both NYC visitors and NYC business owners (and future investors) including restaurants, cafes, hotels, hostels, etc . Taxi drivers can also adjust their routes in different hours. 
 
 
-Dataset Source:http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml ) 
+Dataset Source:http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml 
 
 
 #### 3 - Yelp review analysis 
