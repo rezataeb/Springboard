@@ -1,9 +1,9 @@
 
 
-# H1 Capstone Project Ideas 
-# H1 Reza Taeb
+# Capstone Project Ideas 
+# Reza Taeb
 
-## H2 1 - TED.com popular areas of talks
+## 1 - TED.com popular areas of talks
 
 This idea is about the TED Talks videos. These datasets contain information about all audio-video recordings of TED Talks uploaded to the official TED.com website until September 21st, 2017. The TED main dataset contains information about all talks including number of views, number of comments, descriptions, speakers, titles, description, speaker occupation, number of speakers, duration, event (the place), published date, tags (themes associated with the talk), number of languages which the talk is available, ratings (a dictionary of various rating), related talks (a list of dictionary), the URL. 
 
@@ -18,7 +18,7 @@ Dataset Source : https://www.kaggle.com/rounakbanik/ted-talks
 
 
 
-## H2 2 -  NYC Taxi Trips tips 
+## 2 -  NYC Taxi Trips tips 
 
 The second idea is analysis of trips in NYC based on the pick-up/drop-off of NYC  green and yellow taxis trips. The data which will be used was collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). The datasets are in CVS formats and are separated based on the time (monthly data) and Green or Yellow taxis. The columns of the datasets are: pickup_datetime, dropoff_datetime, passenger_count, pickup_longitude, pickup_latitude, dropoff_longitude, dropoff_latitude, ratecodeID, store and forward flag, payment type, fare amount, extra (surcharges), tip, and total amount. 	 
 Some of the primary questions and area of research that I am interested in are: 
@@ -31,8 +31,7 @@ The output can be beneficial for both NYC visitors and NYC business owners (and 
 Dataset Source:http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml ) 
 
 
-
-## H2 3 - Yelp review analysis 
+## 3 - Yelp review analysis 
 
 This idea comes up from the challenge which is introduced by Yelp.com. In the challenge, the participants are invited to discover the most used words in both positive and negative reviews of different business categories (like restaurants, cafes, etc.). I want to dig in more and look at the most used words in reviews not only based on the business categories but also few other categories such as neighborhood, time, and rating. For instance, customers may expect a special service along with food when they are eating at the very high rating one and if the restaurant can not meet their expectations they express it in their reviews, however a customer may not expect something similar in low rating restaurants. Also the users are probably different in different neighbourhoods and it can show the priorities of different social classes.  Other variables like time can have remarkable influence on reviews too. 
 The data is coming directly from yelp.com and is separated in several main JSON format data sets (business, reviews, user, check in, and tips). You can find all details of the datasets in the link below: 
