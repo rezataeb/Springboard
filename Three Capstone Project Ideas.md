@@ -1,11 +1,11 @@
 
 
-*Capstone Project Ideas*
+**Capstone Project Ideas**
 **Reza Taeb**
 
 
 
-## 1 - TED.com popular areas of talks
+###### 1 - TED.com popular areas of talks
   
 This idea is about the TED Talks videos. These datasets contain information about all audio-video recordings of TED Talks uploaded to the official TED.com website until September 21st, 2017. The TED main dataset contains information about all talks including number of views, number of comments, descriptions, speakers, titles, description, speaker occupation, number of speakers, duration, event (the place), published date, tags (themes associated with the talk), number of languages which the talk is available, ratings (a dictionary of various rating), related talks (a list of dictionary), the URL. 
 
