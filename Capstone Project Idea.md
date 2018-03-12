@@ -1,5 +1,5 @@
 
-<h1><center>How to improve restaurant reputation even just one star using Yelp user reviews ! </center></h1>     
+## How to improve restaurant reputation even just one star using Yelp user reviews !       
 ### “ The path from being normal to good, and good to perfect ! “
 
 Reza Taeb
