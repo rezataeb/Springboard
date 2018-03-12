@@ -1,5 +1,5 @@
 <p align="center">
-  <b>## How to improve restaurant reputation even just one star using Yelp user reviews ! </b><br>
+  <b> How to improve restaurant reputation even just one star using Yelp user reviews ! </b><br>
   
 </p>
 
