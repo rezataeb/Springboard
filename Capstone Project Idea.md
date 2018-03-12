@@ -1,6 +1,6 @@
 <p align="center">
-  <h> How to improve restaurant reputation even just one star using Yelp user reviews ! </h><br>
-  <h> “ The path from being normal to good, and good to perfect !" </h><br>
+  <b> How to improve restaurant reputation even just one star using Yelp user reviews ! </b><br>
+  <b> “ The path from being normal to good, and good to perfect !" </b><br>
 
 
 </p>
