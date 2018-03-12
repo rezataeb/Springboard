@@ -5,7 +5,7 @@
 
 </p>
 
-<h>   Data Science Capstone Project   
+<h>   Data Science Capstone Project Proposal  
 Spring 2018    <hr>
 
 In the highly competitive world, one of the major concerns of business owners is how to improve their business reputation. Restaurants owners are not excluded from this fact and they always want to push their businesses out to upper levels.   Restaurants owners should be aware of business current state and they need to be updated frequently in order to survive in the market especially in the big cities with more powerful competitors. Business reputation is one of the main area that owners should always take care of that and improve it. In the online world, restaurants reputations can be reflected in the customers’ reviews of some online platforms such as Yelp.  
