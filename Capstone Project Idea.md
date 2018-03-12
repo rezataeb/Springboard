@@ -5,9 +5,7 @@
 
 </p>
 
--> Reza Taeb <-
-
-
+Reza Taeb. 
 Data Science Capstone Project. 
 Spring 2018. 
 
