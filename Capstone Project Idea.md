@@ -5,7 +5,7 @@
 
 </p>
 
-<h> Reza Taeb <h>
+<h> Reza Taeb <hr>
 Data Science Capstone Project
 
 Spring 2018
