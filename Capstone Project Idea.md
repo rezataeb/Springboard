@@ -1,11 +1,13 @@
 <p align="center">
   <b> How to improve restaurant reputation even just one star using Yelp user reviews ! </b><br>
   
-</p>
+
 
 
       
 ### “ The path from being normal to good, and good to perfect ! “
+
+</p>
 
 Reza Taeb
 Data Science Capstone Project
