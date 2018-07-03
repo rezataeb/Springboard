@@ -28,6 +28,3 @@ My final deliverables for this project are an analysis paper, slides along with 
 
 
 
-
-
-Disclaimer : In this project, I will just use the restaurants with more than 20 reviews due to need of enough data that makes our analysis reliable for each restaurant.   
