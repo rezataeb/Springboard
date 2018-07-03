@@ -1,2 +1,2 @@
 # Springboard
-This repository is for my works in springboard Data Science bootcamp
+This repository is assigned to my capstone project in Springboard Data Science bootcamp. 
